@@ -1,0 +1,2 @@
+# AGROSPOT---An-AI-Enabled-Multilingual-System-for-Crop-Health-Pest-and-Soil-Intelligence
+AGRO SPOT is an AI-enabled system that monitors crop health and provides personalized decision support for vegetable crops such as tomato, brinjal, and green chilli. It uses image-based analysis, NDRE, CRI, and deep learning to detect crop stress, pests, and leaf diseases and provide actionable recommendations.
